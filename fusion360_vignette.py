@@ -21,12 +21,12 @@ def run(context):
 
         # Set parameters (cm)
         ##################################################################
-        vertices = 96
+        vertices = 36
 
         width = 16
         height = 20
 
-        thickness = 0.04  # 0 if not extrude
+        thickness = 1  # 0 if not extrude
 
         outside_ellipse_height = 12
         outside_ellipse_width = 10
