@@ -2,7 +2,7 @@
 python script for Fusion 360 to make analog photography vignette equipment
 
 To generate vignetter:
--copy attachment file to a new folder
+-copy fusion360_vignette.py file to a new folder
 -open it with text editor, change parameters as You need and save file
 
 In fusion 360:
