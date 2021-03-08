@@ -11,4 +11,4 @@ In fusion 360:
 hiator should be generated in few seconds
 -go to -->Bodies, rightclick on "hiator" --> save as STL
 voila!
-![alt text](https://github.com/[werderes]/[vignette]/blob/[master]/vignette.png?raw=true)
+![alt text](https://github.com/werderes/vignette/blob/master/vignette.png?raw=true)
